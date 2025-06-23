@@ -1,0 +1,13 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+    github.com/project-slug: meliuz/zanox-api-client-php
+  description: "# zanox-api-client-php\nBiblioteca de comunica\xE7\xE3o com as APIs\
+    \ da Zanox (Awin). \n"
+  name: zanox-api-client-php
+spec:
+  lifecycle: production
+  type: service

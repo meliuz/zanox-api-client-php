@@ -1,0 +1,6 @@
+---
+site_name: zanox-api-client-php
+nav:
+  - Home: README.md
+plugins:
+  - techdocs-core
