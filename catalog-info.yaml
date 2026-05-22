@@ -5,7 +5,9 @@ metadata:
   annotations:
     backstage.io/techdocs-ref: dir:.
     github.com/project-slug: meliuz/zanox-api-client-php
-  description: "# zanox-api-client-php\nBiblioteca de comunicação com as APIs da Zanox (Awin). \n"
+  description: |
+    # zanox-api-client-php
+    Biblioteca de comunicação com as APIs da Zanox (Awin).
   name: zanox-api-client-php
 spec:
   lifecycle: production
